@@ -1,0 +1,10 @@
+{
+  "name":"ApexCalc — Ultimate Scientific Calculator",
+  "short_name":"ApexCalc",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f3f5f6",
+  "theme_color":"#19a90e",
+  "description":"Premium scientific calculator with a built-in on-screen keyboard.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
